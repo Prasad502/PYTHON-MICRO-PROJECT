@@ -6,7 +6,7 @@ This is a Recharge Management System. This is a desktop application which takes 
 
 The starting or the main-file for the project is Main.py. The file then redirects too all the other modules of the project.
 
-The database files should be imported in your local database before executing the system.
+The database files should be imported in your local database before executing the system. ( recharge.sql )
 
 To import database files in your localhost , Create a database same as the file name and then click on import and select the particular file.
 The database will be imported in your localhost.
